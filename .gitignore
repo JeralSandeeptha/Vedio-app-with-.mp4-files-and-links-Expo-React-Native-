@@ -9,6 +9,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+vedio.mp4
 
 # macOS
 .DS_Store
